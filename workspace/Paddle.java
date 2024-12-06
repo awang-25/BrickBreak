@@ -1,5 +1,5 @@
 /*
- * Author: Adam Wang;
+ * Author: Adam Wang
  * Date: 12/04/2024
  * Description: This component is the moving paddle which the user will control.
  */
